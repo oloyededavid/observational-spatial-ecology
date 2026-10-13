@@ -14,11 +14,21 @@ This repository contains a reproducible computational pipeline that quantifies 2
 * **Full Written Report & Spatial Analysis:** [Download Complete PDF](documents/Afi_Cross_River_Connectivity_Report.pdf) 
 
 ---
+---
+
+## 🖼️ Visual Synthesis
+
+| Multi-Decadal Habitat Perforation (2000–2024) | Least-Cost Dispersal Pathway & Resistance |
+| :---: | :---: |
+| ![Habitat Fragmentation](figures/study_area_temporal_change.png) | ![Connectivity Modeling](figures/corridor_resistance_map.png) |
+
+---
+
 
 ## 💻 Module-by-Module Code Execution (Google Colab)
 The analytical pipeline for this research is hosted in an interactive Google Colab environment.
 
-* **Habitat Fragmentation & Least-Cost Routing:** Computes morphological landscape metrics—identifying a +481.2% patch count expansion and -83.0% mean patch area collapse—and executes Dijkstra graph traversal across a Multi-Criteria Evaluation (MCE) resistance surface to map a dispersal pathway with a 1.26 tortuosity index.  
+* **Habitat Fragmentation & Least-Cost Routing:** Computes morphological landscape metrics identifying a +481.2% patch count expansion and 83.0% mean patch area collapse and executes Dijkstra graph traversal across a Multi Criteria Evaluation (MCE) resistance surface to map a dispersal pathway with a 1.26 tortuosity index.  
   👉 [Open Colab Notebook](https://colab.research.google.com/drive/1HqzZBToLo2lwRGnyW6D8UvsDER8a0SmN#scrollTo=naq8TqImgSXr)
 
 ---
