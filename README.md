@@ -21,7 +21,7 @@ This repository contains a computational pipeline that was intended to quantify 
 
 ## Complete Portfolio Documentation
 
-* **Full Written Report & Spatial Analysis:** [View Complete PDF](documents/Afi_Cross_River_Connectivity_Report.pdf)
+* **Full Written Report & Spatial Analysis:** [View Complete PDF](documents/Afi_Cross_River_Connectivity_Report.pdf) (contains the withdrawn results; its numbers also differ from the notebook output)
 
 ---
 
