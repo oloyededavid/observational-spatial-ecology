@@ -9,6 +9,8 @@
 **Author:** David Oloyede  
 **Research Focus:** Global Environmental Change & Ecosystem Dynamics  
 
+> **Status, 11 November 2026: the results in this repository are withdrawn.** An audit of the notebook found that the 2024 forest layer used for the fragmentation results is simulated, not observed. In `code/afi_crossriver_corridor_analysis.ipynb`, cell 3 replaces an empty 2024 raster with a map built from the 2000 map and random numbers (seed 42), and the stored output says "forest_2024.tif successfully updated". The +481.2% patch count and -83.0% mean patch area come from that simulated raster. The slope term of the resistance surface is also a formula, not terrain data, and the start and end points of the corridor are raster fractions, not the protected areas they are labelled as. Several numbers in the PDF report differ from the notebook output. None of these results should be cited. See `AUDIT-2026-11-11.md`.
+
 ---
 
 ## Overview
