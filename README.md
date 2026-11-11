@@ -40,7 +40,7 @@ Below is a preview showing 2 of the 3 primary spatial and statistical outputs pr
 
 | Multi-Decadal Habitat Perforation (2000–2024) | Least-Cost Dispersal Pathway & Resistance (2024) |
 | :---: | :---: |
-| ![Habitat Fragmentation](figures/study_area_temporal_change.png) <br> *Canopy Baseline (2000) vs. Perforated Matrix (2024)* | ![Connectivity Modeling](figures/corridor_resistance_map.png) <br> *MCE Resistance Surface & Modeled Wildlife Corridor* |
+| ![Habitat Fragmentation](figures/study_area_temporal_change.png) <br> *Canopy Baseline (2000) vs. simulated 2024 layer (not observed)* | ![Connectivity Modeling](figures/corridor_resistance_map.png) <br> *MCE Resistance Surface & Modeled Wildlife Corridor (synthetic slope term; endpoints not the protected areas)* |
 
 ---
 
