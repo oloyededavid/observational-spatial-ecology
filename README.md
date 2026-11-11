@@ -29,7 +29,7 @@ This repository contains a computational pipeline that was intended to quantify 
 
 The analytical pipeline for this research is hosted in an interactive Google Colab environment for browser based reproduction.
 
-* **Habitat Fragmentation & Least-Cost Routing:** Computes morphological landscape metrics identifying a +481.2% patch count expansion and -83.0% mean patch area collapsemand executes Dijkstra graph traversal across a Multi Criteria Evaluation (MCE) resistance surface to map a dispersal pathway with a 1.26 tortuosity index.  
+* **Habitat Fragmentation & Least-Cost Routing:** Computes morphological landscape metrics and runs Dijkstra graph traversal across a Multi Criteria Evaluation (MCE) resistance surface. The +481.2% patch count and -83.0% mean patch area it printed come from a simulated 2024 raster and are withdrawn; the 1.26 tortuosity in the report is 1.24 in the notebook output.  
   [Open Colab Notebook](https://colab.research.google.com/drive/1HqzZBToLo2lwRGnyW6D8UvsDER8a0SmN#scrollTo=naq8TqImgSXr)
 
 ---
