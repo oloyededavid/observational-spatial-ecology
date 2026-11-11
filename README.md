@@ -15,7 +15,7 @@
 
 ## Overview
 
-This repository contains a reproducible computational pipeline that quantifies 24-year forest fragmentation dynamics (2000–2024) across the Afi Mountain Cross River transboundary corridor in southeastern Nigeria. Designed to evaluate structural habitat connectivity for the critically endangered Cross River gorilla (*Gorilla gorilla diehli*), the workflow integrates cloud based Earth Observation with scientific Python arrays to model landscape resistance and wildlife dispersal pathways without relying on desktop GIS software.
+This repository contains a computational pipeline that was intended to quantify 24-year forest fragmentation dynamics (2000–2024) across the Afi Mountain Cross River transboundary corridor in southeastern Nigeria. It was designed to evaluate structural habitat connectivity for the critically endangered Cross River gorilla (*Gorilla gorilla diehli*), the workflow integrates cloud based Earth Observation with scientific Python arrays to model landscape resistance and wildlife dispersal pathways without relying on desktop GIS software.
 
 ---
 
